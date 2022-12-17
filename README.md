@@ -1,6 +1,9 @@
 matthew mccabe
+
 associate professor of audio technology, schwob school of music
+
 columbus state university
+
 mccabe_matthew@columbusstate.edu
 
 <!---
